@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=flat&logo=PM2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-232F3E?style=flat&logo=Selenium&logoColor=white" />
 </div>
 
 
